@@ -1,1 +1,5 @@
 Ian Collins González
+ian@example.com
+
+Manuel Turizo
+manuel@example.com
